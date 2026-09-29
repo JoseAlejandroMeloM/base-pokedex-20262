@@ -1,7 +1,7 @@
 # Pokéaventura
 
 **Autor:** Jose Alejandro Melo M.<br>
-**Aplicación publicada:** [https://josealejandromelom.github.io/Poquedex/](https://josealejandromelom.github.io/Poquedex/)
+**Aplicación publicada:** [https://josealejandromelom.github.io/base-pokedex-20262/](https://josealejandromelom.github.io/base-pokedex-20262/)
 
 Pokéaventura es una Pokédex interactiva con estilo de videojuego Pokémon. El usuario puede explorar un mapa pixel-art, recorrer distintas regiones, encontrar Pokémon salvajes al azar y abrir sus fichas completas en la Pokédex.
 
@@ -219,4 +219,4 @@ El proyecto fue comprobado con:
 
 La versión pública del proyecto está disponible en:
 
-[https://josealejandromelom.github.io/Poquedex/](https://josealejandromelom.github.io/Poquedex/)
+[https://josealejandromelom.github.io/base-pokedex-20262/](https://josealejandromelom.github.io/base-pokedex-20262/)
